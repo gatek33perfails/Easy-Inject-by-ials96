@@ -1,0 +1,15 @@
+v2:
+Fixed rank up (jiggy method)
+fixed camos unlock thx
+"""""better ui""""""
+
+
+v3:
+new ui
+added unlock plat psn under 3 minutes
+added medals stats
+added game modes stats
+added equipments stats
+added scorestreaks stats
+Added Unlock all
+added Max Weapons RANK + prestige 2
